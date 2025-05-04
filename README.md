@@ -1,2 +1,3 @@
 # SCT_DataScience_2
 Task 2 – Titanic Dataset EDA and data cleaning using Python
+This project analyzes the Titanic dataset to explore various factors affecting survival. The dataset is loaded, cleaned by handling missing values and removing unnecessary columns, and categorical data is encoded into numerical values. Several visualizations, such as count plots and histograms, are created to understand survival rates, age distribution, passenger class, and embarkation points. Finally, a correlation heatmap is generated to show relationships between different features. The goal is to gain insights into what factors influenced survival on the Titanic.
